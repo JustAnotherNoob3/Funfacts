@@ -1,0 +1,11 @@
+{
+  "HarmonyId": "JAN.funfacts",
+  "DisplayName": "Fun Facts",
+  "Authors": [
+    "JustAnotherNoob"
+  ],
+  "Discord": "https://discord.gg/ht8ttc3R8E",
+  "Description": "This mod replaces the boring loading tips with exciting fun facts!",
+  "Version": "1.0.0",
+  "RequiredMods": ["JAN.modpagelib"]
+}
