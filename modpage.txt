@@ -49,4 +49,5 @@ This mod was a collaboration between all the members of my discord! You should j
 - Bucket
 - Caffeineix</indent>
 <size=200%><b>Changelog</b></size>
+<size=55%>v</size>1.0.1 -<indent=15%>Curtis made me update the mod (added one funfact).</indent>
 <size=55%>v</size>1.0.0 -<indent=15%>The released mod!</indent>
