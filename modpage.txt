@@ -1,8 +1,9 @@
 This mod was a collaboration between all the members of my discord! You should join it's really cool.
 <size=200%><b>Full Credits</b></size>
+--- <b><size=120%>Contributors Since Season 1</size></b> ---
 <indent=3%>- Epic
 - MysticMismagius
-- Bread Lover
+- Bread
 - Nidoskull
 - MarioMan314
 - Haapsalu
@@ -11,7 +12,7 @@ This mod was a collaboration between all the members of my discord! You should j
 - Nitros
 - backyard
 - Sightnado
-- Luigicool2
+- luigicool2
 - Oversplat017
 - Depty
 - coiledAgent
@@ -43,11 +44,56 @@ This mod was a collaboration between all the members of my discord! You should j
 - Uncle Garry
 - Momoiro
 - Soulnom
-- AlchlcSystem
+- AlchlcSystm
 - Jzk
 - Cataclysm Kid
-- Bucket
+- Moikero
 - Caffeineix</indent>
+
+--- <b><size=120%>Contributors Since Season 2</size></b> ---
+<indent=3%>- Anuyushi
+- Arterie
+- Bayoyo
+- BravoTheWavo
+- Cat Maid
+- claire
+- Cog
+- CondensedTaco
+- Deskolaby
+- ender_pearl
+- EndOfToday
+- Eryn
+- Exuploshion
+- finnsona
+- Glitch=)
+- glop
+- hitori "bocchi" gotou
+- Iced
+- Infy
+- Kenidur 1561
+- KingOfNoobs
+- PiggyMcbacon
+- Pikachu_prime25
+- randomplayer
+- Sen_Of_Gray
+- SnowCone
+- takedownmgdragonclanleader
+- That_Amnesiac
+- TriNitro
+- Zelofa</indent>
+--- <b><size=120%>Contributors Since Season 3</size></b> ---
+- Lore
+- Stick
+- Moikeromatsu
+- Begone
+- SuspiciousStranger
+- GdWolfkie
+- Bayoyo
+- Freyavibezz
+- GreatVampire
+
 <size=200%><b>Changelog</b></size>
+<size=55%>v</size>3.0.0 -<indent=15%>Season 3 fun facts added (oops i took like a whole year to do this woopsie)</indent>
+<size=55%>v</size>2.0.0 -<indent=15%>Season 2 hype!! Also modified both how the funfacts get chosen (making it more random) and added more variations of "Fun Fact:"</indent>
 <size=55%>v</size>1.0.1 -<indent=15%>Curtis made me update the mod (added one funfact).</indent>
 <size=55%>v</size>1.0.0 -<indent=15%>The released mod!</indent>

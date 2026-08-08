@@ -1,5 +1,7 @@
 using UnityEngine;
 using System.Collections;
+using System.Security.Cryptography;
+using System;
 
 namespace Utils{
     class MiscUtils{
@@ -18,6 +20,17 @@ namespace Utils{
      }
      return path;
     }
+    public static int GetSecureRandomNumber(int min, int max)
+{
+    if (min >= max)
+        return 0;
 
+        byte[] rno = new byte[5];
+        RandomNumberGenerator.Create().GetBytes(rno);
+
+        int generatedValue = BitConverter.ToInt32(rno, 0) & int.MaxValue;
+        return (generatedValue % (max - min)) + min;
     }
+}
+    
 }
